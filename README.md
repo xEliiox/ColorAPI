@@ -29,7 +29,7 @@ Add JitPack to your `pom.xml`:
     <dependency>
         <groupId>com.github.xEliiox</groupId>
         <artifactId>ColorAPI</artifactId>
-        <version>2.0.0</version>
+        <version>2.0.1</version>
     </dependency>
 </dependencies>
 ```
@@ -103,7 +103,7 @@ if (ColorAPI.isHexSupported()) {
 
 ## 🔄 Changelog
 
-### v2.0.0
+### v2.0.1
 - Added `&#RRGGBB` HEX format support
 - Fixed `group(2)` bug in HEX pattern matching
 - Simplified version check logic
