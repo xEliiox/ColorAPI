@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
  * </p>
  *
  * @author xEliiox
- * @version 2.0.0
+ * @version 2.0.3
  */
 public final class ColorAPI {
 
